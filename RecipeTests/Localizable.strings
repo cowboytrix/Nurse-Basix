@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Recipe
+
+  Created by Branimir Yavorov on 1/26/16.
+  Copyright © 2016 dmbTeam. All rights reserved.
+*/
+"LeftMenuFavsKey" = "Favorites";
+"LeftMenuShoppingListKey" = "Shopping List";
+"LeftMenuAboutKey" = "About Page";
